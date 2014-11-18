@@ -88,6 +88,7 @@ a.register{
 	height: auto;
 	width: 45px;
 	margin: 10px;
+
 }
 
 .profile {
@@ -212,9 +213,9 @@ a.register{
 	float: left;
 	height: auto;
 	width: 60px;
-	margin: 10px;
 	position: relative;
-	top: -78px;
+	top: -35px;
+	left: -35px;
 }
 
 .plus{
@@ -258,4 +259,23 @@ a:visited{
 
 .add-new-list-div{
 
+}
+
+.Grocery {
+	font-size: 40px;
+	font-family: 'Oxygen', sans-serif;
+	text-align: center;
+	position: relative;
+	top: -48px;
+}
+
+.settings-list {
+	float: right;
+	position: relative;
+	top: -30px;
+	right: -45px;
+}
+
+.list1-head {
+	display: inline-block;
 }
