@@ -1,0 +1,261 @@
+.iphone {
+	height: 640px;
+	width: 360px;
+	border: solid;
+	border-color: black;
+	border-width: 5px;
+}
+
+.logo {
+	height: auto;
+	width: 80%;
+	position: relative;
+	top: 70px;
+	left: 25px;
+}
+
+h1 {
+	font-family: 'Oxygen', sans-serif;
+}
+
+.email-login {
+	font-family:'Oxygen', sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: 120px;
+	left: 25px;
+}
+
+.password-login {
+	font-family:'Oxygen', sans-serif;
+	font-size: 25px;
+	position: relative;
+	top: 145px;
+	left: 25px;
+}
+
+.textbox1{
+	height: 25px;
+	width: 50%;
+	position: relative;
+	top: 120px;
+	left: 25px;
+}
+
+.textbox2{
+	height: 25px;
+	width: 50%;
+	position: relative;
+	top: 145px;
+	left: 25px;
+}
+
+a.login{
+	height: 85px;
+	width: 150px;
+	font-size: 20px;
+	background-color: ;
+	position: relative;
+	top: 220px;
+	left: -162px;
+	text-decoration: none;
+
+}
+
+a.register{
+	height: 85px;
+	width: 150px;
+	font-size: 20px;
+	background-color: ;
+	position: relative;
+	top: 260px;
+	left: -210px;
+	text-decoration: none;
+}
+
+.home-head{
+	height: 50px;
+	border-bottom: 3px solid black;
+}
+
+.right-icons{
+	float: right;
+	position: relative;
+	top: -75px;
+}
+
+.settings {
+	height: auto;
+	width: 45px;
+	margin: 10px;
+}
+
+.profile {
+	height: auto;
+	width: 45px;
+	margin: 10px;
+}
+
+.logo-r {
+	height: auto;
+	width: 80%;
+	position: relative;
+	top: 20px;
+	left: 25px;	
+}
+
+.name{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: ;
+	left: 25px;
+}
+
+.username{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: 15px;
+	left: 25px;
+}
+
+.email{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: 20px;
+	left: 25px;
+}
+
+.confirm-email{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: 25px;
+	left: 25px;
+}
+
+.password{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: 30px;
+	left: 25px;
+}
+
+.confirm-password{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	top: 35px;
+	left: 25px;
+}
+
+.textbox3{
+	width: 50%;
+	position: relative;
+	top: -240px;
+	left: 25px;
+}
+
+.textbox4{
+	width: 50%;
+	position: relative;
+	top: -205px;
+	left: 25px;
+}
+
+.textbox5{
+	width: 50%;
+	position: relative;
+	top: -175px;
+	left: 25px;
+}
+
+.textbox6{
+	width: 50%;
+	position: relative;
+	top: -145px;
+	left: 25px;
+}
+
+.textbox7{
+	width: 50%;
+	position: relative;
+	top: -115px;
+	left: 25px;
+}
+
+.textbox8{
+	width: 50%;
+	position: relative;
+	top: -100px;
+	left: 25px;
+}
+
+.Register-button{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	width: 150px;
+	height: 55px;
+	position: relative;
+	top: 30px;
+	left: -165px;
+}
+
+.list-1{
+	text-align: center;
+}
+
+.backbutton{
+	float: left;
+	height: auto;
+	width: 60px;
+	margin: 10px;
+	position: relative;
+	top: -78px;
+}
+
+.plus{
+	height: 55px;
+	width: auto;
+	position: relative;
+	top: 25px;
+	left: 10px;
+}
+
+.add-new-list{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	text-decoration: none;
+	float: right;
+	position: relative;
+	top: 25px;
+}
+
+a:link{
+	color: black;
+}
+
+a:hover{
+	color: black;
+}
+
+a:active{
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+.grocery-list-home{
+	font-size: 45px;
+	font-family: 'Oxygen', sans-serif;
+	text-decoration: none;
+}
+
+.add-new-list-div{
+
+}
