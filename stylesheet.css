@@ -222,17 +222,26 @@ a.register{
 	height: 55px;
 	width: auto;
 	position: relative;
-	top: 25px;
+	top: 15px;
 	left: 10px;
+	float: left;
+	margin-right: 20px;
+}
+
+.add-new-list-new{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	text-decoration: none;
+	float: left;
+	position: relative;
+	top: 25px;
 }
 
 .add-new-list{
 	font-size: 25px;
 	font-family: 'Oxygen', sans-serif;
 	text-decoration: none;
-	float: right;
-	position: relative;
-	top: 25px;
+	float: left;
 }
 
 a:link{
