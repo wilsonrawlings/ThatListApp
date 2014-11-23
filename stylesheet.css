@@ -288,3 +288,54 @@ a:visited{
 .list1-head {
 	display: inline-block;
 }
+
+.New-List-Title {
+	font-size: 45px;
+	font-family: 'Oxygen', sans-serif;
+	margin: 0px;
+	position: relative;
+	left: 5px;
+}
+
+.listname{
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	left: 5px;
+}
+
+.new-list-input{
+	width: 60%;
+	float: right;
+	position: relative	top: -40px;
+	right: 20px;
+}
+.Add-People-Title{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 0px;
+}
+
+.Notifacations-Title{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+}
+
+.plusperson{
+	height: 55px;
+	width: auto;
+	position: relative;
+	top: 15px;
+	left: 10px;
+	margin-top: 0px;
+	margin-right: 20px;
+}
+
+.add-person-new{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	text-decoration: none;
+	float: right;
+	position: relative;
+	top: 25px;
+}
