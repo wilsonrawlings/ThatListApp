@@ -461,3 +461,54 @@ a:visited{
 	position: relative;
 	top: -42px;
 }
+
+.newitemh1{
+	font-size: 45px;
+	font-family: 'Oxygen', sans-serif;
+	margin: 0px;
+	margin-left: 10px;
+	margin-top: 5px;
+	position: relative;
+	left: 5px;
+}
+
+.add-item-button{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.cancel-add-item-button{
+	font-size: 15px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	left: 20px;
+}
+
+.item-name-add{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.new-item-name-input{
+	width: 80%;
+	margin-left: 10px;
+}
+
+.item-description-add{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.new-description-name-input{
+	width: 80%;
+	height: 50%;
+	margin-left: 10px
+}
