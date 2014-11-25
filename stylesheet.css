@@ -305,37 +305,159 @@ a:visited{
 }
 
 .new-list-input{
-	width: 60%;
-	float: right;
-	position: relative	top: -40px;
-	right: 20px;
+	font-size: 20px;
+	font-family: 'Oxygen', sans-serif;
+	width: 92%;
+	height: 30px;
+	position: relative;
+	left: 10px;
 }
 .Add-People-Title{
 	font-size: 30px;
 	font-family: 'Oxygen', sans-serif;
-	margin-bottom: 0px;
+	margin-bottom: 50px;
+	float: left;
+	position: relative;
+	left: 8px;
 }
 
 .Notifacations-Title{
 	font-size: 30px;
 	font-family: 'Oxygen', sans-serif;
+	margin-top: 0px;
+	position: relative;
+	top: 30px;
+	left: -150px;
 }
 
 .plusperson{
-	height: 55px;
+	height: 45px;
 	width: auto;
+	float: left;
+	margin-top: 60px;
+	margin-right: 10px;
 	position: relative;
 	top: 15px;
-	left: 10px;
-	margin-top: 0px;
-	margin-right: 20px;
+	left: -150px;
 }
 
 .add-person-new{
-	font-size: 25px;
+	font-size: 20px;
 	font-family: 'Oxygen', sans-serif;
 	text-decoration: none;
-	float: right;
+	float: left;
 	position: relative;
-	top: 25px;
+	top: 85px;
+	left: -155px;
+}
+
+.some-added{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	float: left;
+}
+
+.some-checked{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	float: left;
+	position: relative;
+	left: 20px;
+}
+
+.notify-check1{
+	float: left;
+	position: relative;
+	top: 22px;
+}
+
+.notify-check2{
+	float: left;
+	position: relative;
+	top: 82px;
+	left: -280px;
+}
+
+.create-list-button{
+	font-size: 40px;
+	font-family: 'Oxygen', sans-serif;
+	float: left;
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
+
+.cancel-create-list{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	float: left;
+	position: relative;
+	left: -195px;
+	top: 100px;
+}
+
+.Add-Person-Title {
+	font-size: 45px;
+	font-family: 'Oxygen', sans-serif;
+	margin: 0px;
+	margin-left: 10px;
+	margin-top: 5px;
+	position: relative;
+	left: 5px;
+}
+
+.email-person-add{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.name-person-add{
+	font-size: 30px;
+	font-family: 'Oxygen', sans-serif;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.add-person-button{
+	font-size: 40px;
+	font-family: 'Oxygen', sans-serif;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.cancel-person-button{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	position: relative;
+	left: 20px;
+}
+
+.ios-keyboard{
+	width: 100%;
+	height: auto;
+	position: relative;
+	bottom: -35px;
+}
+
+.new-person-input{
+	width: 75%;
+	height: 30px;
+	position: relative;
+	left: 10px;
+}
+
+.item1{
+	font-size: 25px;
+	font-family: 'Oxygen', sans-serif;
+	margin-left: 20px;
+	margin-bottom: 10px;
+}
+
+.item1-details{
+	float: right;
+	height: 35px;
+	position: relative;
+	top: -42px;
 }
