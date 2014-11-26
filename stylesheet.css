@@ -675,3 +675,8 @@ a:visited{
 	left: -125px;
 	top: 80px;
 }
+
+.item-check-off{
+	position: relative;
+	top: 53px;
+}
